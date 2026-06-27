@@ -1,4 +1,4 @@
-# NoMobSpawn
+# 🚫 NoMobSpawn
 **NoMobSpawn** — this is a lightweight Fabric mod that allows you to completely block specific mobs from spawning in your world.
 
 ---
